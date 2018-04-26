@@ -7,6 +7,7 @@ int lnum=0;
 int rnum=0;
 unsigned char route[500];
 int route_node=1;
+void straight(int speed);
 void setup() 
 { 
   
